@@ -1,0 +1,16 @@
+C:\Users\Učenik\Documents\dateTimePicker1\dateTimePicker1\obj\Debug\net8.0-windows\dateTimePicker1.Form1.resources
+C:\Users\Učenik\Documents\dateTimePicker1\dateTimePicker1\obj\Debug\net8.0-windows\dateTimePicker1.csproj.GenerateResource.cache
+C:\Users\Učenik\Documents\dateTimePicker1\dateTimePicker1\obj\Debug\net8.0-windows\dateTimePicker1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Učenik\Documents\dateTimePicker1\dateTimePicker1\obj\Debug\net8.0-windows\dateTimePicker1.AssemblyInfoInputs.cache
+C:\Users\Učenik\Documents\dateTimePicker1\dateTimePicker1\obj\Debug\net8.0-windows\dateTimePicker1.AssemblyInfo.cs
+C:\Users\Učenik\Documents\dateTimePicker1\dateTimePicker1\obj\Debug\net8.0-windows\dateTimePicker1.csproj.CoreCompileInputs.cache
+C:\Users\Učenik\Documents\dateTimePicker1\dateTimePicker1\bin\Debug\net8.0-windows\dateTimePicker1.exe
+C:\Users\Učenik\Documents\dateTimePicker1\dateTimePicker1\bin\Debug\net8.0-windows\dateTimePicker1.deps.json
+C:\Users\Učenik\Documents\dateTimePicker1\dateTimePicker1\bin\Debug\net8.0-windows\dateTimePicker1.runtimeconfig.json
+C:\Users\Učenik\Documents\dateTimePicker1\dateTimePicker1\bin\Debug\net8.0-windows\dateTimePicker1.dll
+C:\Users\Učenik\Documents\dateTimePicker1\dateTimePicker1\bin\Debug\net8.0-windows\dateTimePicker1.pdb
+C:\Users\Učenik\Documents\dateTimePicker1\dateTimePicker1\obj\Debug\net8.0-windows\dateTimePicker1.dll
+C:\Users\Učenik\Documents\dateTimePicker1\dateTimePicker1\obj\Debug\net8.0-windows\refint\dateTimePicker1.dll
+C:\Users\Učenik\Documents\dateTimePicker1\dateTimePicker1\obj\Debug\net8.0-windows\dateTimePicker1.pdb
+C:\Users\Učenik\Documents\dateTimePicker1\dateTimePicker1\obj\Debug\net8.0-windows\dateTimePicker1.genruntimeconfig.cache
+C:\Users\Učenik\Documents\dateTimePicker1\dateTimePicker1\obj\Debug\net8.0-windows\ref\dateTimePicker1.dll
